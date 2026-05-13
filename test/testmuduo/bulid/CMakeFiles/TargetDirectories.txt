@@ -1,0 +1,3 @@
+/home/cikl/projects/CHAT/testmuduo/bulid/CMakeFiles/server.dir
+/home/cikl/projects/CHAT/testmuduo/bulid/CMakeFiles/edit_cache.dir
+/home/cikl/projects/CHAT/testmuduo/bulid/CMakeFiles/rebuild_cache.dir
